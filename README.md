@@ -55,6 +55,11 @@ Train the YOLOv5 model on the annotated data. This training process allows YOLOv
 * `Output:`
 The final output displays the video or image with bounding boxes around detected pedestrians. Each box is assigned a unique ID that persists across frames, allowing you to visualize pedestrian movement.
 
+## Output:
+For more exp/extract output visit : <a href="https://github.com/SINGHxTUSHAR/DeepEye/tree/main/runs/detect"> Extract/exp </a>
+
+![img (1)](https://github.com/SINGHxTUSHAR/DeepEye/assets/113624520/ed20a3f6-d14d-4766-b4c5-59e74c43a43f)
+
 
 ## Reference 🧧:
 * IEEE Xplore <a href="https://ieeexplore.ieee.org/abstract/document/9692002"> Documentation </a>
