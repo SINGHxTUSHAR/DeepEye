@@ -1,0 +1,36 @@
+{
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/pytorch/noarch",
+  "constrains": [],
+  "depends": [
+    "pytorch-mutex 1.0 cpu"
+  ],
+  "extracted_package_dir": "C:\\Users\\123sa\\anaconda3\\pkgs\\cpuonly-2.0-0",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "cpuonly-2.0-0.tar.bz2",
+  "link": {
+    "source": "C:\\Users\\123sa\\anaconda3\\pkgs\\cpuonly-2.0-0",
+    "type": 1
+  },
+  "md5": "1cf3a59ef90a4078c253e3b02c272065",
+  "name": "cpuonly",
+  "noarch": "generic",
+  "package_tarball_full_path": "C:\\Users\\123sa\\anaconda3\\pkgs\\cpuonly-2.0-0.tar.bz2",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "cpuonly",
+  "sha256": "f9107aca2a9d23a032634644df5cdb8d0185337891593ce540adc480810ab539",
+  "size": 2380,
+  "subdir": "noarch",
+  "timestamp": 1630913615511,
+  "track_features": "cpuonly",
+  "url": "https://conda.anaconda.org/pytorch/noarch/cpuonly-2.0-0.tar.bz2",
+  "version": "2.0"
+}

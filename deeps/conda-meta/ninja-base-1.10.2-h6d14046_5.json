@@ -1,0 +1,47 @@
+{
+  "build": "h6d14046_5",
+  "build_number": 5,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\123sa\\anaconda3\\pkgs\\ninja-base-1.10.2-h6d14046_5",
+  "features": "",
+  "files": [
+    "Library/bin/ninja.exe",
+    ".nonadmin"
+  ],
+  "fn": "ninja-base-1.10.2-h6d14046_5.conda",
+  "legacy_bz2_md5": "2d4e7563c36c7f71f636ddde97a16f03",
+  "legacy_bz2_size": 290869,
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "C:\\Users\\123sa\\anaconda3\\pkgs\\ninja-base-1.10.2-h6d14046_5",
+    "type": 1
+  },
+  "md5": "111f9c77f24c030072bc38213632546d",
+  "name": "ninja-base",
+  "package_tarball_full_path": "C:\\Users\\123sa\\anaconda3\\pkgs\\ninja-base-1.10.2-h6d14046_5.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/ninja.exe",
+        "path_type": "hardlink",
+        "sha256": "ce5f8e2c43aebf3ad8a50967f55add5e8a0002cf7ac6c2c6aa21ab89577c9773",
+        "sha256_in_prefix": "ce5f8e2c43aebf3ad8a50967f55add5e8a0002cf7ac6c2c6aa21ab89577c9773",
+        "size_in_bytes": 577024
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "371ff5df58c333181a8c6caa8abbf1d00bb2411cca6018f3cac88c1d0e440c44",
+  "size": 261247,
+  "subdir": "win-64",
+  "timestamp": 1651243719472,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/ninja-base-1.10.2-h6d14046_5.conda",
+  "version": "1.10.2"
+}

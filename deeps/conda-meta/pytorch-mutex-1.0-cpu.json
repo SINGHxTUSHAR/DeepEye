@@ -1,0 +1,34 @@
+{
+  "build": "cpu",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/pytorch/noarch",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\Users\\123sa\\anaconda3\\pkgs\\pytorch-mutex-1.0-cpu",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "pytorch-mutex-1.0-cpu.tar.bz2",
+  "link": {
+    "source": "C:\\Users\\123sa\\anaconda3\\pkgs\\pytorch-mutex-1.0-cpu",
+    "type": 1
+  },
+  "md5": "49565ed726991fd28d08a39885caa88d",
+  "name": "pytorch-mutex",
+  "noarch": "generic",
+  "package_tarball_full_path": "C:\\Users\\123sa\\anaconda3\\pkgs\\pytorch-mutex-1.0-cpu.tar.bz2",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "d48c964188ca49660d750cffd73698d217cf94e694cd51987f9f186425435e76",
+  "size": 2897,
+  "subdir": "noarch",
+  "timestamp": 1628062935164,
+  "track_features": "pytorch-mutex",
+  "url": "https://conda.anaconda.org/pytorch/noarch/pytorch-mutex-1.0-cpu.tar.bz2",
+  "version": "1.0"
+}

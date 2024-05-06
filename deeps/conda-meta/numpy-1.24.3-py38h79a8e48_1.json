@@ -1,0 +1,46 @@
+{
+  "build": "py38h79a8e48_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "blas 1.0 mkl",
+    "mkl >=2023.1.0,<2024.0a0",
+    "mkl-service >=2.3.0,<3.0a0",
+    "mkl_fft",
+    "mkl_random",
+    "numpy-base 1.24.3 py38h8a87ada_1",
+    "python >=3.8,<3.9.0a0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.27.29016,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\123sa\\anaconda3\\pkgs\\numpy-1.24.3-py38h79a8e48_1",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "numpy-1.24.3-py38h79a8e48_1.conda",
+  "legacy_bz2_md5": "e7780d6898af27dff997c60c749861de",
+  "legacy_bz2_size": 10682,
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\123sa\\anaconda3\\pkgs\\numpy-1.24.3-py38h79a8e48_1",
+    "type": 1
+  },
+  "md5": "55457c9da3e77c9f350b28fe59dfd730",
+  "name": "numpy",
+  "package_tarball_full_path": "C:\\Users\\123sa\\anaconda3\\pkgs\\numpy-1.24.3-py38h79a8e48_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "20526edd3f683c1a1a778b80d354e552c4fd2610b01ec615016abdeeb3fac831",
+  "size": 11041,
+  "subdir": "win-64",
+  "timestamp": 1682983338725,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/numpy-1.24.3-py38h79a8e48_1.conda",
+  "version": "1.24.3"
+}
